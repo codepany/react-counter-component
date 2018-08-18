@@ -1,0 +1,11 @@
+.seconds-label {
+  text-transform: uppercase;
+  opacity: 0.5;
+}
+
+.buttons-col .btn {
+  margin: 15px 0px;
+  min-width: 200px;
+  font-size: 12px;
+  padding: 7px 25px;
+}

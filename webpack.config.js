@@ -30,6 +30,7 @@ module.exports = {
   },
   devServer: {
     contentBase: path.join(__dirname, 'docs'),
+    host: '137.74.175.51',
     port: 8000,
     stats: 'minimal'
   }
