@@ -59,7 +59,7 @@
     "webpack-dev-server": "^3.1.5"
   },
   "author": "Codepany <contact@codepany.com>",
-  "homepage": "https://github.com/codepany/react-counter-component",
+  "homepage": "https://codepany.github.io/react-counter-component/",
   "repository": {
     "type": "git",
     "url": "https://github.com/codepany/react-counter-component"
