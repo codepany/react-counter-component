@@ -32,9 +32,9 @@ class Demo extends Component {
           <section>
             <p>Features:</p>
             <ul>
-              <li>sets the time value,</li>
-              <li>control a notification about running up time,</li>
-              <li>reset timer,</li>
+              <li>set the time value,</li>
+              <li>set whether notification should appear and when,</li>
+              <li>reset timer manually,</li>
               <li>pass own style and classes.</li>
             </ul>
           </section>

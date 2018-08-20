@@ -10,7 +10,8 @@ module.exports = {
       "promise"
     ],
     "env": {
-      "browser" : true
+      "browser" : true,
+      "jest": true
     },
     "globals": {
       "__DEV__"      : false,
