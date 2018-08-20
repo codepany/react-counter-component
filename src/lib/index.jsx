@@ -106,7 +106,7 @@ CounterComponent.propTypes = {
   notificationText: PropTypes.any,
   showCounter: PropTypes.bool,
   showNotification: PropTypes.bool,
-  showNotificationTimeToEnd: PropTypes.bool,
+  showNotificationTimeToEnd: PropTypes.number,
   style: PropTypes.object
 }
 
