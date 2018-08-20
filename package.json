@@ -1,6 +1,6 @@
 {
   "name": "react-counter-component",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A react component to count down and trigger an action.",
   "main": "lib/index.js",
   "scripts": {
